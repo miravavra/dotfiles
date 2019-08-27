@@ -1,10 +1,7 @@
 # This is Git's per-user configuration file.
 [user]
-	name = Mira
-	email = mira@miravavra.cz
-# Please adapt and uncomment the following lines:
-#	name = Míra
-#	email = Mira@localhost.localdomain
+	name = YourName
+	email = Your@Email.com
 [core]
 	editor = nano
 [alias]
