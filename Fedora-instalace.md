@@ -11,3 +11,5 @@
 sudo dnf install xorg-x11-drv-nvidia-cuda`
 ### Restart
 Ověříme `neofetch` a `nvidia-smi`
+## SW
+sudo dnf install krusader dropbox nautilus-dropbox keepassxc vlc conky conky-manager gnome-tweak-tool gimp
